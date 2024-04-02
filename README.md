@@ -10,5 +10,8 @@
 
 ![image](https://github.com/fastai-study-live-coding/walkthru2/assets/43887344/a791cbed-0ea4-462c-82a3-2eabe79cba59)
 
+![image](https://github.com/fastai-study-live-coding/walkthru2/assets/43887344/875b6370-c358-4e44-a539-fc61d331bdbe)
+
+
 
 
