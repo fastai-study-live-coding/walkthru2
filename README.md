@@ -6,3 +6,6 @@
 
 ![image](https://github.com/fastai-study-live-coding/walkthru2/assets/43887344/8f090bfd-d9fa-4015-805a-c31c0a299147)
 
+![image](https://github.com/fastai-study-live-coding/walkthru2/assets/43887344/dd269296-3974-4433-8d65-bec3ff75fccb)
+
+
