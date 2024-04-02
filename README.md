@@ -8,4 +8,7 @@
 
 ![image](https://github.com/fastai-study-live-coding/walkthru2/assets/43887344/dd269296-3974-4433-8d65-bec3ff75fccb)
 
+![image](https://github.com/fastai-study-live-coding/walkthru2/assets/43887344/a791cbed-0ea4-462c-82a3-2eabe79cba59)
+
+
 
